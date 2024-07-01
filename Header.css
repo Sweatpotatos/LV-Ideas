@@ -1,0 +1,24 @@
+.Header {
+    background-color: #87CEEB;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Header-logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .Header-nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .Header-nav a:hover {
+    text-decoration: underline;
+  }
+  
